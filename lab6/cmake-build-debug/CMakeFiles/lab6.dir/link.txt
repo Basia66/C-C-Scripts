@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wpedantic -Werror -g   CMakeFiles/lab6.dir/main.c.o CMakeFiles/lab6.dir/lista.c.o  -o lab6 -lm 
